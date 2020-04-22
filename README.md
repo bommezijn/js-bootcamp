@@ -1,4 +1,5 @@
-js-bootcamp
+# js-bootcamp #
+----
 - [x] Day 0: Getting Started
 - [ ] Day 1: EXMAScript
 - [ ] Day 2: Functions
